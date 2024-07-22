@@ -1488,3 +1488,784 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.07.22-11.19.49:940][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 404 ms)
 [2024.07.22-11.19.49:943][761]AssetCheck: New page: Asset Save: TestLevel
 [2024.07.22-11.19.49:944][761]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel.TestLevel
+[2024.07.22-11.25.38:110][876]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TitusFolderNoTouch/AI/tasks/Task_PlaceItemOnCounter.Task_PlaceItemOnCounter
+[2024.07.22-11.25.38:111][876]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.25.38:111][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.25.42:785][252]LogSlate: Window 'Task_PlaceItemOnCounter' being destroyed
+[2024.07.22-11.25.42:792][252]LogSlate: Window 'Task_PlaceItemOnCounter' being destroyed
+[2024.07.22-11.25.42:800][252]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.25.42:800][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.26.08:919][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TitusFolderNoTouch/MonitorBP.MonitorBP
+[2024.07.22-11.26.08:919][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.26.08:919][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.26.09:045][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:085][267]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.28.52:100][267]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.22-11.28.52:103][267]LogPlayLevel: [PlayLevel] Compiling MonitorBP before play...
+[2024.07.22-11.28.52:120][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:121][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:121][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:123][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:124][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:125][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:136][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:137][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:137][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:138][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:139][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:140][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:141][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:141][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:152][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:153][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:153][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:154][267]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:154][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:155][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:155][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:155][267]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.28.52:191][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.07.22-11.28.52:192][267]LogPlayLevel: PlayLevel: Blueprint regeneration took 91 ms (1 blueprints)
+[2024.07.22-11.28.52:192][267]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:28:52 AM)
+[2024.07.22-11.28.52:192][267]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.28.52:224][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031037s)
+[2024.07.22-11.28.52:224][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.031073s)
+[2024.07.22-11.28.52:224][267]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.28.52:224][267]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.28.52:224][267]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.28.52:225][267]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2024.07.22-11.28.52:248][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.07.22-11.28.52:250][267]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.28.52:250][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.28.52:250][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.28.52:250][267]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.28.52:250][267]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.28.52:250][267]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.28.52:252][267]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.28.52:276][267]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.28.52:276][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.28.52:276][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.28.52:276][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.28.52:277][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.22-11.28.52:277][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.22-11.28.52:279][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.22-11.28.52:280][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.22-11.28.52:280][267]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.22-11.28.52:280][267]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestLevel'.
+[2024.07.22-11.28.52:280][267]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.22-11.28.52:311][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.28.52:311][267]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.28.52:322][267]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.28.52:322][267]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.28.52
+[2024.07.22-11.28.52:322][267]LogWorld: Bringing up level for play took: 0.010916
+[2024.07.22-11.28.52:326][267]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.07.22-11.28.52:379][267]PIE: Server logged in
+[2024.07.22-11.28.52:379][267]PIE: Play in editor total start time 0.283 seconds.
+[2024.07.22-11.28.52:446][267]LogViewport: Scene viewport resized to 1086x680, mode Windowed.
+[2024.07.22-11.28.57:356][452]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.28.59:548][543]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.28.59:583][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.28.59:583][543]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.28.59:583][543]LogSlate: Window 'DESPROC2P1A247 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.22-11.28.59:595][543]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.28.59:597][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.28.59:600][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.28.59:606][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.28.59:632][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-11.28.59:633][543]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.22-11.28.59:633][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.22-11.28.59:636][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.22-11.28.59:653][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.07.22-11.28.59:675][544]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.07.22-11.29.05:474][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.29.05:491][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-11.29.05:491][205]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:29:05 AM)
+[2024.07.22-11.29.05:491][205]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.29.05:521][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030469s)
+[2024.07.22-11.29.05:521][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.030523s)
+[2024.07.22-11.29.05:521][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.29.05:521][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.29.05:521][205]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.29.05:522][205]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2024.07.22-11.29.05:549][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.07.22-11.29.05:550][205]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.29.05:550][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.29.05:550][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.29.05:551][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.29.05:551][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.29.05:551][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.29.05:553][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.29.05:579][205]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.29.05:579][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.29.05:579][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.29.05:579][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.29.05:580][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.22-11.29.05:580][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.22-11.29.05:584][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.22-11.29.05:584][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.22-11.29.05:584][205]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.22-11.29.05:584][205]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestLevel'.
+[2024.07.22-11.29.05:584][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.22-11.29.05:613][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.29.05:614][205]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.29.05:625][205]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.29.05:625][205]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.29.05
+[2024.07.22-11.29.05:626][205]LogWorld: Bringing up level for play took: 0.012256
+[2024.07.22-11.29.05:632][205]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.07.22-11.29.05:680][205]PIE: Server logged in
+[2024.07.22-11.29.05:681][205]PIE: Play in editor total start time 0.194 seconds.
+[2024.07.22-11.29.05:696][205]LogViewport: Scene viewport resized to 1086x680, mode Windowed.
+[2024.07.22-11.29.17:093][676]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.29.19:847][790]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.29.19:996][796]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_6
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.29.19:996][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.29.19:997][796]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_6
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.29.19:997][796]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.29.20:932][835]LogBlueprintUserMessages: [BPCustomerAdult_C_2] Adult
+[2024.07.22-11.29.24:791][992]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_7
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.29.24:791][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.29.24:791][992]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_7
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.29.24:791][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.29.25:479][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_10
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.29.25:479][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.29.25:479][ 20]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_10
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.29.25:479][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.29.25:479][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_9
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.29.25:479][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.29.25:479][ 20]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_9
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.29.25:479][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.29.26:057][ 44]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_0': Location 'X=343.151 Y=964.243 Z=120.271' in queue position  (Front: 0)
+[2024.07.22-11.29.30:527][222]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_2': Location 'X=342.700 Y=964.537 Z=120.194' in queue position  (Front: 1)
+[2024.07.22-11.29.32:336][291]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_1': Location 'X=787.014 Y=978.855 Z=120.258' in queue position  (Front: 2)
+[2024.07.22-11.29.34:453][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.29.34:453][375]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.29.34:454][375]LogSlate: Window 'DESPROC2P1A247 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.22-11.29.34:464][375]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.29.34:466][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.29.34:469][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.29.34:473][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.29.34:502][375]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-11.29.34:504][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.22-11.29.34:504][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.22-11.29.34:506][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.22-11.29.34:517][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.07.22-11.29.34:579][376]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.07.22-11.29.35:929][502]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.29.35:946][502]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-11.29.35:946][502]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:29:35 AM)
+[2024.07.22-11.29.35:946][502]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.29.35:982][502]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034913s)
+[2024.07.22-11.29.35:982][502]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.034966s)
+[2024.07.22-11.29.35:982][502]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.29.35:982][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.29.35:983][502]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.29.35:983][502]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2024.07.22-11.29.36:006][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.07.22-11.29.36:008][502]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.29.36:008][502]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.29.36:008][502]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.29.36:009][502]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.29.36:009][502]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.29.36:009][502]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.29.36:011][502]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.29.36:035][502]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.29.36:036][502]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.29.36:036][502]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.29.36:036][502]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.29.36:037][502]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.22-11.29.36:037][502]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.22-11.29.36:038][502]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.22-11.29.36:038][502]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.22-11.29.36:038][502]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.22-11.29.36:038][502]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestLevel'.
+[2024.07.22-11.29.36:039][502]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.22-11.29.36:071][502]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.29.36:071][502]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.29.36:081][502]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.29.36:081][502]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.29.36
+[2024.07.22-11.29.36:082][502]LogWorld: Bringing up level for play took: 0.009837
+[2024.07.22-11.29.36:085][502]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.07.22-11.29.36:132][502]PIE: Server logged in
+[2024.07.22-11.29.36:134][502]PIE: Play in editor total start time 0.192 seconds.
+[2024.07.22-11.29.36:148][502]LogViewport: Scene viewport resized to 1086x680, mode Windowed.
+[2024.07.22-11.29.38:060][577]LogBlueprintUserMessages: [BP_BottleBox_C_0] bottle
+[2024.07.22-11.29.50:336][ 29]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.29.50:763][ 45]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.29.51:113][ 59]LogBlueprintUserMessages: [BPCustomerAdult_C_2] Adult
+[2024.07.22-11.29.57:728][305]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_0': Location 'X=344.169 Y=963.635 Z=120.275' in queue position  (Front: 0)
+[2024.07.22-11.30.01:253][434]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_1': Location 'X=788.646 Y=980.382 Z=120.237' in queue position  (Front: 1)
+[2024.07.22-11.30.04:893][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.30.04:893][568]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.30.04:893][568]LogSlate: Window 'DESPROC2P1A247 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.22-11.30.04:912][568]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.30.04:914][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.30.04:917][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.30.04:924][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.30.04:953][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.22-11.30.04:953][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.22-11.30.04:955][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.22-11.30.04:968][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.07.22-11.30.04:992][569]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.07.22-11.30.44:215][960]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-11.30.44:256][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitusFolderNoTouch/AI/TestTree" FILE="../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/AI/TestTree.uasset" SILENT=true
+[2024.07.22-11.30.44:263][960]LogSavePackage: Moving output files for package: /Game/TitusFolderNoTouch/AI/TestTree
+[2024.07.22-11.30.44:263][960]LogSavePackage: Moving '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Saved/TestTree9FE3B56443CBB6751A6D2AB370F9E8CC.tmp' to '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/AI/TestTree.uasset'
+[2024.07.22-11.30.44:271][960]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 459 ms)
+[2024.07.22-11.30.44:278][960]AssetCheck: New page: Asset Save: TestTree
+[2024.07.22-11.30.44:278][960]LogContentValidation: Display: Validating /Script/AIModule.BehaviorTree /Game/TitusFolderNoTouch/AI/TestTree.TestTree
+[2024.07.22-11.30.47:398][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.30.47:413][142]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.22-11.30.47:416][142]LogPlayLevel: [PlayLevel] Compiling MonitorBP before play...
+[2024.07.22-11.30.47:424][142]LogBlueprint: Error: [AssetLog] E:\titusBuild - Copy (2)\DESPROC2P1A247\Content\TitusFolderNoTouch\MonitorBP.uasset: [Compiler] The current value (None) of the ' Key Name ' pin is invalid: 'Key Name' in action 'Set Value as Bool' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.07.22-11.30.47:503][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.07.22-11.30.47:505][142]LogPlayLevel: PlayLevel: Blueprint regeneration took 91 ms (1 blueprints)
+[2024.07.22-11.30.47:505][142]BlueprintLog: Warning: Blueprint failed to compile:  MonitorBP
+[2024.07.22-11.30.49:591][142]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.07.22-11.30.51:702][232]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.30.51:715][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-11.30.51:715][232]BlueprintLog: Warning: Blueprint failed to compile:  MonitorBP
+[2024.07.22-11.30.53:154][232]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.07.22-11.30.55:951][408]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.30.55:966][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.22-11.30.55:966][408]BlueprintLog: Warning: Blueprint failed to compile:  MonitorBP
+[2024.07.22-11.30.57:777][408]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.07.22-11.31.05:539][205]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.31.05:558][205]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.22-11.31.05:561][205]LogPlayLevel: [PlayLevel] Compiling MonitorBP before play...
+[2024.07.22-11.31.05:577][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:579][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:579][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:581][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:582][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:582][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:592][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:593][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:593][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:593][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:595][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:596][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:596][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:596][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:608][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:609][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:609][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:609][205]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:610][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:610][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:610][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:611][205]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.31.05:644][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.07.22-11.31.05:648][205]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (1 blueprints)
+[2024.07.22-11.31.05:648][205]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:31:05 AM)
+[2024.07.22-11.31.05:648][205]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.31.05:684][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035189s)
+[2024.07.22-11.31.05:684][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.035237s)
+[2024.07.22-11.31.05:684][205]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.31.05:684][205]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.31.05:684][205]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.31.05:685][205]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2024.07.22-11.31.05:710][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.07.22-11.31.05:711][205]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.31.05:711][205]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.31.05:711][205]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.31.05:712][205]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.31.05:712][205]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.31.05:712][205]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.31.05:714][205]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.31.05:737][205]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.31.05:737][205]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.31.05:737][205]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.31.05:737][205]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.31.05:738][205]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.22-11.31.05:738][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.22-11.31.05:740][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.22-11.31.05:740][205]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.22-11.31.05:740][205]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.22-11.31.05:740][205]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestLevel'.
+[2024.07.22-11.31.05:740][205]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.22-11.31.05:776][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.31.05:776][205]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.31.05:784][205]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.31.05:785][205]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.31.05
+[2024.07.22-11.31.05:785][205]LogWorld: Bringing up level for play took: 0.008437
+[2024.07.22-11.31.05:789][205]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.07.22-11.31.05:842][205]PIE: Server logged in
+[2024.07.22-11.31.05:843][205]PIE: Play in editor total start time 0.288 seconds.
+[2024.07.22-11.31.05:902][205]LogViewport: Scene viewport resized to 1086x680, mode Windowed.
+[2024.07.22-11.31.09:760][342]LogBlueprintUserMessages: [BP_BottleBox_C_0] bottle
+[2024.07.22-11.31.27:114][998]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.31.27:325][  7]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.31.28:203][ 44]LogBlueprintUserMessages: [BPCustomerAdult_C_2] Adult
+[2024.07.22-11.31.32:157][204]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_3
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.31.32:157][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.31.32:157][204]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_3
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.31.32:157][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.31.35:354][328]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_1': Location 'X=364.939 Y=989.345 Z=120.174' in queue position  (Front: 0)
+[2024.07.22-11.31.36:199][360]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_2': Location 'X=486.948 Y=1049.517 Z=120.151' in queue position  (Front: 1)
+[2024.07.22-11.31.39:152][473]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_0': Location 'X=344.205 Y=965.949 Z=120.084' in queue position  (Front: 2)
+[2024.07.22-11.31.53:666][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.31.53:666][ 25]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.31.53:666][ 25]LogSlate: Window 'DESPROC2P1A247 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.22-11.31.53:681][ 25]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.31.53:683][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.31.53:686][ 25]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.31.53:693][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.31.53:721][ 25]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.22-11.31.53:721][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.22-11.31.53:724][ 25]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.22-11.31.53:738][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.22-11.31.53:802][ 26]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.07.22-11.32.00:131][705]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-11.32.00:194][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitusFolderNoTouch/MonitorBP" FILE="../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset" SILENT=true
+[2024.07.22-11.32.00:216][705]LogSavePackage: Moving output files for package: /Game/TitusFolderNoTouch/MonitorBP
+[2024.07.22-11.32.00:217][705]LogSavePackage: Moving '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Saved/MonitorBP6E96D36148C439B14ABBE3A8CD5A6FD1.tmp' to '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset'
+[2024.07.22-11.32.00:227][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 555 ms)
+[2024.07.22-11.32.00:234][705]AssetCheck: New page: Asset Save: MonitorBP
+[2024.07.22-11.32.00:234][705]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TitusFolderNoTouch/MonitorBP.MonitorBP
+[2024.07.22-11.32.02:208][855]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.32.02:222][855]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.22-11.32.02:224][855]LogPlayLevel: [PlayLevel] Compiling MonitorBP before play...
+[2024.07.22-11.32.02:242][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:244][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:244][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:244][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:245][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:245][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:259][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:260][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:260][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:260][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:262][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:263][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:263][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:264][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:278][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:280][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:280][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:280][855]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:281][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:281][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:281][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:282][855]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.32.02:313][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.07.22-11.32.02:316][855]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2024.07.22-11.32.02:316][855]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:32:02 AM)
+[2024.07.22-11.32.02:316][855]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.32.02:348][855]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031805s)
+[2024.07.22-11.32.02:349][855]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.031846s)
+[2024.07.22-11.32.02:349][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.32.02:349][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.32.02:349][855]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.32.02:350][855]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2024.07.22-11.32.02:377][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.07.22-11.32.02:377][855]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.22-11.32.02:377][855]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.32.02:377][855]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.32.02:378][855]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.32.02:378][855]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.32.02:378][855]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.32.02:378][855]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.32.02:378][855]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.32.02:378][855]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.32.02:378][855]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.32.02:378][855]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.32.02:378][855]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.32.02:380][855]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.32.02:405][855]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.32.02:405][855]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.32.02:405][855]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.32.02:405][855]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.32.02:406][855]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.22-11.32.02:406][855]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.22-11.32.02:408][855]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.22-11.32.02:408][855]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.22-11.32.02:408][855]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.22-11.32.02:408][855]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestLevel'.
+[2024.07.22-11.32.02:408][855]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.22-11.32.02:412][855]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.32.02:419][855]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.32.02:419][855]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.32.02
+[2024.07.22-11.32.02:420][855]LogWorld: Bringing up level for play took: 0.007297
+[2024.07.22-11.32.02:423][855]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.07.22-11.32.02:475][855]PIE: Server logged in
+[2024.07.22-11.32.02:476][855]PIE: Play in editor total start time 0.258 seconds.
+[2024.07.22-11.32.04:751][938]LogBlueprintUserMessages: [BP_BottleBox_C_0] bottle
+[2024.07.22-11.32.24:335][737]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.32.24:347][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.07.22-11.32.24:348][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.07.22-11.32.26:014][812]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.32.26:082][815]LogBlueprintUserMessages: [BPCustomerAdult_C_2] Adult
+[2024.07.22-11.32.26:857][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.07.22-11.32.26:858][849]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.07.22-11.32.33:315][115]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_0': Location 'X=656.121 Y=1049.517 Z=120.119' in queue position  (Front: 0)
+[2024.07.22-11.32.34:894][179]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_1': Location 'X=346.223 Y=962.870 Z=120.221' in queue position  (Front: 1)
+[2024.07.22-11.32.37:541][286]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_2': Location 'X=345.143 Y=964.892 Z=120.271' in queue position  (Front: 2)
+[2024.07.22-11.32.44:203][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.32.44:203][556]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.32.44:204][556]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.32.44:205][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.32.44:220][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.32.44:226][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.32.44:251][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.32.44:253][556]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.22-11.32.44:253][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.22-11.32.44:255][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.22-11.32.44:268][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.07.22-11.32.44:321][557]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.07.22-11.33.26:904][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.33.26:918][969]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.22-11.33.26:921][969]LogPlayLevel: [PlayLevel] Compiling MonitorBP before play...
+[2024.07.22-11.33.26:937][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:938][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:938][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:938][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:939][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:939][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:951][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:951][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:951][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:952][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:955][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:955][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:955][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:956][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:969][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:970][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:970][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:970][969]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.26:971][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:971][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:971][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.26:972][969]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.33.27:010][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.07.22-11.33.27:012][969]LogPlayLevel: PlayLevel: Blueprint regeneration took 94 ms (1 blueprints)
+[2024.07.22-11.33.27:012][969]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:33:27 AM)
+[2024.07.22-11.33.27:013][969]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.33.27:045][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032851s)
+[2024.07.22-11.33.27:045][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.032891s)
+[2024.07.22-11.33.27:046][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.33.27:046][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.33.27:046][969]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.33.27:047][969]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2024.07.22-11.33.27:071][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.07.22-11.33.27:072][969]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.33.27:072][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.33.27:072][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.33.27:072][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.33.27:072][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.33.27:072][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.33.27:074][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.33.27:097][969]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.33.27:098][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.33.27:098][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.33.27:098][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.33.27:099][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.22-11.33.27:099][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.22-11.33.27:102][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.22-11.33.27:102][969]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.22-11.33.27:102][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.22-11.33.27:102][969]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestLevel'.
+[2024.07.22-11.33.27:102][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.22-11.33.27:127][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.33.27:127][969]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.33.27:136][969]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.33.27:136][969]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.33.27
+[2024.07.22-11.33.27:137][969]LogWorld: Bringing up level for play took: 0.009938
+[2024.07.22-11.33.27:141][969]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.07.22-11.33.27:187][969]PIE: Server logged in
+[2024.07.22-11.33.27:187][969]PIE: Play in editor total start time 0.272 seconds.
+[2024.07.22-11.33.27:244][969]LogViewport: Scene viewport resized to 1086x680, mode Windowed.
+[2024.07.22-11.33.35:316][298]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.33.35:935][323]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.33.36:321][339]LogBlueprintUserMessages: [BPCustomerAdult_C_2] Adult
+[2024.07.22-11.33.39:893][484]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_3
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.33.39:893][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.33.39:894][484]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_3
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.33.39:894][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.33.39:894][484]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_2
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.33.39:894][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.33.39:894][484]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_2
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.33.39:894][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.33.40:961][525]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_10
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.33.40:961][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.33.40:961][525]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_10
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.33.40:961][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.33.40:961][525]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_9
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.33.40:961][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.33.40:961][525]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_9
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.33.40:961][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.33.41:140][532]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_1
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.33.41:140][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.33.41:141][532]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_1
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.33.41:141][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.33.43:422][619]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_1': Location 'X=485.208 Y=1049.517 Z=120.275' in queue position  (Front: 0)
+[2024.07.22-11.33.44:897][677]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_2': Location 'X=656.991 Y=1049.517 Z=120.257' in queue position  (Front: 1)
+[2024.07.22-11.33.48:263][805]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_0': Location 'X=790.437 Y=980.664 Z=120.267' in queue position  (Front: 2)
+[2024.07.22-11.33.53:543][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.33.53:543][ 12]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.33.53:544][ 12]LogSlate: Window 'DESPROC2P1A247 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.22-11.33.53:550][ 12]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.33.53:552][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.33.53:556][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.33.53:564][ 12]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.33.53:596][ 12]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.22-11.33.53:596][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.22-11.33.53:598][ 12]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.22-11.33.53:611][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.07.22-11.33.53:674][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.07.22-11.33.59:011][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-11.33.59:076][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitusFolderNoTouch/MonitorBP" FILE="../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset" SILENT=true
+[2024.07.22-11.33.59:098][571]LogSavePackage: Moving output files for package: /Game/TitusFolderNoTouch/MonitorBP
+[2024.07.22-11.33.59:099][571]LogSavePackage: Moving '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Saved/MonitorBPCA9E361944B4BFF6F64C07AC076FC839.tmp' to '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset'
+[2024.07.22-11.33.59:107][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 651 ms)
+[2024.07.22-11.33.59:116][571]AssetCheck: New page: Asset Save: MonitorBP
+[2024.07.22-11.33.59:116][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TitusFolderNoTouch/MonitorBP.MonitorBP
+[2024.07.22-11.34.00:429][713]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.22-11.34.00:443][713]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.07.22-11.34.00:445][713]LogPlayLevel: [PlayLevel] Compiling MonitorBP before play...
+[2024.07.22-11.34.00:463][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:464][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:464][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:465][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:466][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:466][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:476][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:477][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:478][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:478][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:480][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:481][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:482][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:482][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:496][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:497][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:497][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:498][713]LogPhysics: Warning: Scale for /Game/TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:498][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:499][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:499][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:499][713]LogPhysics: Warning: Scale for /Engine/Transient.World_13:PersistentLevel.MonitorBP_C_0.Plane has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.750 Z=0.000
+[2024.07.22-11.34.00:536][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.07.22-11.34.00:538][713]LogPlayLevel: PlayLevel: Blueprint regeneration took 96 ms (1 blueprints)
+[2024.07.22-11.34.00:539][713]PIE: New page: PIE session: TestLevel (Jul 23, 2024, 3:34:00 AM)
+[2024.07.22-11.34.00:539][713]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.34.00:576][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036683s)
+[2024.07.22-11.34.00:576][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestLevel.TestLevel to /Game/UEDPIE_0_TestLevel.TestLevel (0.036733s)
+[2024.07.22-11.34.00:576][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.22-11.34.00:576][713]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.22-11.34.00:576][713]LogAIModule: Creating AISystem for world TestLevel
+[2024.07.22-11.34.00:577][713]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2024.07.22-11.34.00:603][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.07.22-11.34.00:612][713]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.07.22-11.34.00:612][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.22-11.34.00:612][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.22-11.34.00:618][713]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.22-11.34.00:619][713]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.22-11.34.00:619][713]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.22-11.34.00:621][713]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.22-11.34.00:661][713]LogAudioMixer: Display: Using Audio Hardware Device Headphones (JBL Tune 720BT Stereo)
+[2024.07.22-11.34.00:661][713]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.22-11.34.00:661][713]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.22-11.34.00:661][713]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.22-11.34.00:662][713]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.07.22-11.34.00:662][713]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.07.22-11.34.00:665][713]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.07.22-11.34.00:665][713]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.07.22-11.34.00:665][713]LogInit: FAudioDevice initialized with ID 10.
+[2024.07.22-11.34.00:665][713]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestLevel'.
+[2024.07.22-11.34.00:665][713]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.22-11.34.00:704][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.34.00:704][713]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.07.22-11.34.00:713][713]LogPhysics: Warning: Scale for /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.MonitorBP_C_1.Plane has a component set to zero, which will result in a bad body instance. Scale:X=0.500 Y=0.875 Z=0.000
+[2024.07.22-11.34.00:714][713]LogWorld: Bringing World /Game/UEDPIE_0_TestLevel.TestLevel up for play (max tick rate 0) at 2024.07.22-19.34.00
+[2024.07.22-11.34.00:714][713]LogWorld: Bringing up level for play took: 0.009615
+[2024.07.22-11.34.00:717][713]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.07.22-11.34.00:772][713]PIE: Server logged in
+[2024.07.22-11.34.00:773][713]PIE: Play in editor total start time 0.335 seconds.
+[2024.07.22-11.34.00:842][713]LogViewport: Scene viewport resized to 1086x680, mode Windowed.
+[2024.07.22-11.34.03:074][793]LogBlueprintUserMessages: [BPCustomerAdult_C_0] Adult
+[2024.07.22-11.34.04:666][858]LogBlueprintUserMessages: [BPCustomerAdult_C_1] Adult
+[2024.07.22-11.34.08:453][899]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_11
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.34.08:453][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.34.08:453][899]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_11
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.34.08:453][899]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.34.09:144][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_7
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.34.09:145][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.34.09:145][903]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_7
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.34.09:145][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.34.11:501][994]LogBlueprintUserMessages: [BPCustomerAdult_C_2] Adult
+[2024.07.22-11.34.13:469][ 72]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_0': Location 'X=342.830 Y=965.111 Z=120.273' in queue position  (Front: 0)
+[2024.07.22-11.34.15:298][144]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_6
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.34.15:298][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.34.15:298][144]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_6
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.34.15:298][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.34.15:298][144]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_5
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:SetMeshType:008D
+[2024.07.22-11.34.15:298][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Return Node Graph:  SetMeshType Function:  Set Mesh Type Blueprint:  ChipManagerBP
+[2024.07.22-11.34.15:298][144]LogScript: Warning: Accessed None trying to read property Static mesh
+	ChipManagerBP_C /Game/UEDPIE_0_TestLevel.TestLevel:PersistentLevel.ChipManagerBP_C_5
+	Function /Game/StoreAssets/ChipManagerBP.ChipManagerBP_C:RemoveLastIndex:0017
+[2024.07.22-11.34.15:298][144]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Static mesh". Node:  Set Static Mesh Graph:  RemoveLastIndex Function:  Remove Last Index Blueprint:  ChipManagerBP
+[2024.07.22-11.34.17:042][212]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_1': Location 'X=345.709 Y=963.982 Z=120.273' in queue position  (Front: 1)
+[2024.07.22-11.34.22:976][443]LogBlueprintUserMessages: [Task_RegisterAtMonitor_C_0] Agent 'BPCustomerAdult_C_2': Location 'X=344.541 Y=964.585 Z=120.052' in queue position  (Front: 2)
+[2024.07.22-11.34.23:833][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.22-11.34.23:833][475]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestLevel
+[2024.07.22-11.34.23:834][475]LogSlate: Window 'DESPROC2P1A247 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.07.22-11.34.23:844][475]LogWorld: UWorld::CleanupWorld for TestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.07.22-11.34.23:846][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.34.23:848][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.22-11.34.23:856][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.22-11.34.23:882][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.22-11.34.23:884][475]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.07.22-11.34.23:884][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.22-11.34.23:886][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.07.22-11.34.23:901][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.07.22-11.34.24:126][476]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.07.22-11.34.26:129][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-11.34.26:199][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitusFolderNoTouch/MonitorBP" FILE="../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset" SILENT=true
+[2024.07.22-11.34.26:225][482]LogSavePackage: Moving output files for package: /Game/TitusFolderNoTouch/MonitorBP
+[2024.07.22-11.34.26:226][482]LogSavePackage: Moving '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Saved/MonitorBPB3D8B03342F5EAAFB08EE3833CA0889C.tmp' to '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset'
+[2024.07.22-11.34.26:238][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 760 ms)
+[2024.07.22-11.34.26:245][482]AssetCheck: New page: Asset Save: MonitorBP
+[2024.07.22-11.34.26:245][482]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TitusFolderNoTouch/MonitorBP.MonitorBP
+[2024.07.22-11.34.34:003][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.07.22-11.34.34:006][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-11.34.34:042][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestLevel" FILE="../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TestLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.07.22-11.34.34:068][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.22-11.34.34:149][752]LogSavePackage: Moving output files for package: /Game/TestLevel
+[2024.07.22-11.34.34:149][752]LogSavePackage: Moving '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Saved/TestLevelB5A2D9F54CE43FF737C91E88CC8FB978.tmp' to '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TestLevel.umap'
+[2024.07.22-11.34.34:158][752]LogFileHelpers: Saving map 'TestLevel' took 0.117
+[2024.07.22-11.34.34:170][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 924 ms)
+[2024.07.22-11.34.34:177][752]AssetCheck: New page: Asset Save: TestLevel
+[2024.07.22-11.34.34:177][752]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel.TestLevel
+[2024.07.22-11.34.45:650][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.22-11.34.45:688][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TitusFolderNoTouch/MonitorBP" FILE="../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset" SILENT=true
+[2024.07.22-11.34.45:709][119]LogSavePackage: Moving output files for package: /Game/TitusFolderNoTouch/MonitorBP
+[2024.07.22-11.34.45:711][119]LogSavePackage: Moving '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Saved/MonitorBP6A316E934795467997B49E90DC163393.tmp' to '../../../../../../titusBuild - Copy (2)/DESPROC2P1A247/Content/TitusFolderNoTouch/MonitorBP.uasset'
+[2024.07.22-11.34.45:718][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 992 ms)
+[2024.07.22-11.34.45:725][119]AssetCheck: New page: Asset Save: MonitorBP
+[2024.07.22-11.34.45:725][119]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TitusFolderNoTouch/MonitorBP.MonitorBP
+[2024.07.22-11.35.48:288][706]LogProjectBrowser: Looking for projects...
+[2024.07.22-11.35.48:288][706]LogProjectBrowser: Found Engine Installation "5.2"(E:/ebic/Epic Games/UE_5.2)
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.2
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Looking for directories to scan from : C:/Users/aby/AppData/Local/UnrealEngine/5.2/Saved/Config/WindowsEditor
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Searching for previously created project directories...
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found directory: "E:/PersonalUE"
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found directory: "E:/GP1"
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found directory: "E:/unrealshiz"
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/PersonalUE/twoDgame/twoDgame.uproject",LastOpenTime=2024.05.23-10.50.52)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/unrealshiz/peoafrsfsdf/peoafrsfsdf.uproject",LastOpenTime=2024.06.09-15.20.35)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/PersonalUE/pp1/pp1.uproject",LastOpenTime=2024.06.10-11.29.49)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/unrealshiz/demodemo/demodemo.uproject",LastOpenTime=2024.06.12-10.40.09)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/GP1/Milestone_2/Milestone_2.uproject",LastOpenTime=2024.06.12-14.58.58)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/FNT/DESPROC2P1A247/DESPROC2P1A247.uproject",LastOpenTime=2024.07.14-08.33.09)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/GP1/MilestoneS/Milestone_2.uproject",LastOpenTime=2024.07.21-19.32.56)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/konbini/DESPROC2P1A247/DESPROC2P1A247.uproject",LastOpenTime=2024.07.22-04.43.07)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/titusBuild/DESPROC2P1A247/DESPROC2P1A247.uproject",LastOpenTime=2024.07.22-04.50.05)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "(ProjectName="E:/titusBuild - Copy (2)/DESPROC2P1A247/DESPROC2P1A247.uproject",LastOpenTime=2024.07.22-11.17.24)" in recently opened files
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "E:/PersonalUE/pp1/pp1.uproject" in previously created project directory
+[2024.07.22-11.35.48:288][706]LogDesktopPlatform: Found project "E:/PersonalUE/twoDgame/twoDgame.uproject" in previously created project directory
+[2024.07.22-11.35.48:289][706]LogDesktopPlatform: Found project "E:/GP1/MilestoneS/Milestone_2.uproject" in previously created project directory
+[2024.07.22-11.35.48:289][706]LogDesktopPlatform: Found project "E:/GP1/Milestone_1/Milestone_1.uproject" in previously created project directory
+[2024.07.22-11.35.48:289][706]LogDesktopPlatform: Found project "E:/unrealshiz/demodemo/demodemo.uproject" in previously created project directory
+[2024.07.22-11.35.48:289][706]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2024.07.22-11.35.48:290][706]LogProjectBrowser: Found Engine Installation "5.4"(E:/ebic/Epic Games/UE_5.4)
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.4
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Looking for directories to scan from : C:/Users/aby/AppData/Local/UnrealEngine/5.4/Saved/Config/WindowsEditor
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Searching for previously created project directories...
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Found directory: "E:/unrealshiz"
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Found project "(ProjectName="E:/unrealshiz/learning1/learning1.uproject",LastOpenTime=2024.05.20-08.52.40)" in recently opened files
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Found project "(ProjectName="E:/NPCQUEUES/QueueAndCarry.uproject",LastOpenTime=2024.07.19-04.17.21)" in recently opened files
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Found project "E:/unrealshiz/demodemo/demodemo.uproject" in previously created project directory
+[2024.07.22-11.35.48:290][706]LogDesktopPlatform: Searcing for projects in .uprojectdirs
+[2024.07.22-11.35.48:291][706]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2024.07.22-11.36.00:081][931]LogSlate: Window 'Open Project' being destroyed
